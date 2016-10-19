@@ -1,5 +1,6 @@
-jvalidator
+﻿jvalidator
 =======================
+hello, git.
 
 ### Change Log ###
 0.3.0 去除jquery依赖
